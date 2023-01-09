@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1672824326933" clover="3.2.0">
+  <project timestamp="1672824326933" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3" elements="11" coveredelements="11" complexity="0" loc="6" ncloc="6" packages="1" files="2" classes="2"/>
+    <file name="math.js" path="C:\Users\peropero\Desktop\job\jestTest\jestDemo\src\math.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+    <file name="searchName.js" path="C:\Users\peropero\Desktop\job\jestTest\jestDemo\src\searchName.js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="6" count="12" type="stmt"/>
+      <line num="8" count="6" type="cond" truecount="2" falsecount="0"/>
+    </file>
+  </project>
+</coverage>
